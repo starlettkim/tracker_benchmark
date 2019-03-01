@@ -2,7 +2,7 @@ from config import *
 import scripts.butil
 import subprocess
 
-MDNET_PATH = '/home/chwon/challenge/py-MDNet'
+MDNET_PATH = '/Users/starlett/codes/repos/py-MDNet'
 MDNET_PATH = os.path.abspath(MDNET_PATH)
 
 def run_MDNet(seq, rp, bSaveImage):
